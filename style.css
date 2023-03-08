@@ -1,0 +1,64 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+}
+
+
+h5 {
+    color: hsl(228, 12%, 48%);
+    font-weight: 500;
+    font-size: 13px;
+    padding-top: 20px;
+    opacity: 0.6;
+}
+
+h3 {
+    font-size: 2rem;
+    font-weight: 700;
+    padding-top: 20px;
+}
+
+p {
+    color: hsl(228, 12%, 48%);
+    padding-top: 10px;
+}
+
+h2 {
+    font-family: 'Fraunces', serif;
+
+    display: inline-block;
+    color: hsl(158, 36%, 37%);
+}
+
+h6 {
+    padding: 0px 0px 0px 20px;
+    position: relative;
+    display: inline-block;
+    opacity: 0.5;
+}
+
+.card-body {
+    padding-left: 20px;
+}
+
+
+.container-fluid {
+    margin-top: 200px;
+}
+
+.attribution { 
+    font-size: 11px; text-align: center; 
+}
+
+.attribution a {
+     color: hsl(228, 45%, 44%); 
+    }
+
+
+.img {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+}
